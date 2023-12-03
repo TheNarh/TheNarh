@@ -1,13 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ludwig Sackey Narh
 ==========================================================================================================================================
 
-Java Enthusiast | Developer | Software Testing Advocate
--------------------------------------------------------
 
-I'm currently honing my Java skills and looking forward to challenges and practical projects where I can push my limits to become a competent Java developer. I'm passionate about software testing and have mastered the principles of quality assurance, from manual testing to exploring automation frameworks, with an eye for detail and precision.
+- 🚀 JavaScript: Front-end development and creating interactive web experiences.
+- ☕ Java: Building scalable and robust backend applications.
+- 🧪 Software Testing: Ensuring the reliability and quality of code.
+
+💼 Actively seeking exciting opportunities to contribute, learn, and grow as a developer.
+
 
 * ✉️  You can contact me at [thenarh17@gmail.com](mailto:thenarh17@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm currently learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I look forward to contributing my evolving skills, working with innovative teams and being part of impactful projects. Let's build something great together!
 
