@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 - 🚀 JavaScript: Front-end development and creating interactive web experiences.
-- ☕ Java: Building scalable and robust backend applications.
-- 🧪 Software Testing: Ensuring the reliability and quality of code.
 
 💼 Actively seeking exciting opportunities to contribute, learn, and grow as a developer.
 
