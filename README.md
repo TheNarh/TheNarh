@@ -8,7 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * ✉️  You can contact me at [thenarh17@gmail.com](mailto:thenarh17@gmail.com)
-* 🧠  I'm currently learning React.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I look forward to contributing my evolving skills, working with innovative teams, and being part of impactful projects. Let's build something great together!
 
