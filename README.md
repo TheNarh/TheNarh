@@ -2,14 +2,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 
-- 🚀 JavaScript: Front-end development and creating interactive web experiences.
+🌍 A passionate JavaScript developer focused on building intuitive, high-impact web applications.
 
-💼 Actively seeking exciting opportunities to contribute, learn, and grow as a developer.
+💡 I specialize in front-end development with a strong foundation in JavaScript and modern frameworks like Vue.js and React, and I enjoy creating seamless user experiences that solve real-world problems.
 
+🌐 I’m actively seeking global opportunities where I can contribute to forward-thinking teams, grow as a developer, and help bring meaningful digital products to life.
 
-* ✉️  You can contact me at [thenarh17@gmail.com](mailto:thenarh17@gmail.com)
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I look forward to contributing my evolving skills, working with innovative teams, and being part of impactful projects. Let's build something great together!
+📬 Reach out at thenarh17@gmail.com
+🤝 Open to remote or relocation opportunities, collaborative projects, and continuous learning.
+⚡ Let’s connect and build something exceptional together — I’m ready to make an impact.
 
 ### Skills
 
