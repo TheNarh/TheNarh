@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 
-I am a JavaScript-focused front-end developer with a strong interest in building intuitive, high-impact web applications. I specialize in modern JavaScript and front-end frameworks such as React and Vue.js, with an emphasis on clean architecture, usability, and maintainable code.
+I am a JavaScript-focused front-end developer with a strong interest in building intuitiveand high-impact web applications. I specialize in modern JavaScript and front-end frameworks such as React and Vue.js, with an emphasis on clean architecture, usability, and maintainable code.
 
-I am actively seeking global opportunities where I can contribute to collaborative, forward-thinking teams, continue to grow as an engineer, and help deliver meaningful digital products at scale.
+I am actively seeking global opportunities where I can contribute to collaborative, forward-thinking teams, continue to grow as an engineer and help deliver meaningful digital products at scale.
 
 ### Skills
 
